@@ -25,6 +25,7 @@ fun main() {
 //    helloBot.sayHello()
 //    helloBot.sayHello()
 //    helloBot.sayHello()
+    println("초기화 전")
 
     for (i in 1..5) {
         Thread{
